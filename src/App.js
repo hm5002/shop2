@@ -8,6 +8,8 @@ import Detail from './routes/Detail.js'
 import axios from 'axios'
 import Cart from './routes/Cart.js'
 
+//고침
+
 function App() {
 
 let [shoes, setShoes] = useState(data)
